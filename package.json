@@ -13,11 +13,13 @@
     "body-parser": "^1.13.2",
     "colors": "^1.1.2",
     "express": "^4.13.1",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.11",
     "morgan": "^1.6.1"
   },
   "devDependencies": {
     "chai": "^3.2.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
     "supertest": "^1.0.1"
   }
 }

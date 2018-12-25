@@ -1,4 +1,4 @@
 module.exports = {
-  // disbable logging for production
+  // disable logging for production
   logging: false
 };
